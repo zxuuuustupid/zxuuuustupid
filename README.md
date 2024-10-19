@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 📫 How to reach me: zhixuduan@std.uestc.edu.cn  
 😄 Pronouns: he  
 ⚡ Fun fact: love MHWI   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxuuuustupid&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxuuuustupid&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&show_icons=true&theme=dark)
