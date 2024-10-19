@@ -10,4 +10,13 @@ Here are some ideas to get you started:
 📫 How to reach me: zhixuduan@std.uestc.edu.cn  
 😄 Pronouns: he  
 ⚡ Fun fact: love MHWI   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxuuuustupid&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=zxuuuustupid&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
