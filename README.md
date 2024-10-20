@@ -2,10 +2,10 @@
 
 ### an undergraduate student in SMEE of UESTC
 
-🔭 I’m currently working on fault detection of train tranmission systems with zero sample  
-🌱 I’m currently learning nothing  
-💬 Ask me about anything  
-📫 How to reach me: zhixuduan@std.uestc.edu.cn  
+🔭 I’m currently working on fault detection of train tranmission systems with zero-fault sample  
+🌱 I’m currently learning nothing/anything   
+💬 Ask me about anything you want to know  
+📫 How to reach me: zhixuduan@std.uestc.edu.cn/zhixuduan123@gmail.com 
 😄 Pronouns: he  
 ⚡ Fun fact: love MHWI   
 <table>
