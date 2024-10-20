@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# an undergraduate student in SMEE of UESTC
+### an undergraduate student in SMEE of UESTC
 
 🔭 I’m currently working on fault detection of train tranmission systems with zero sample  
 🌱 I’m currently learning nothing  
