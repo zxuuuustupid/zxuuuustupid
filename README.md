@@ -18,3 +18,4 @@
     </td>
   </tr>
 </table>
+</i><img align="right" style="padding=0;" vspace="0" hspace="18" src="https://komarev.com/ghpvc/?username=zxuuuustupid&style=flat"/>
