@@ -3,12 +3,12 @@
 ### An undergraduate student in SMEE of UESTC
 #### In Center for system reliability and safety of UESTC, China     
 
-🔭 I’m currently working on fault detection of train tranmission systems with zero-fault sample  
-🌱 I’m currently learning anything   
-💬 Ask me about anything you want to know  
-📫 How to reach me: zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
-😄 Pronouns: he  
-⚡ Fun fact: love MHWI and CS2   
+I’m currently researching on fault detection of train tranmission systems with zero-fault sample  
+Interested in Large Model (LM) now!     
+Ask me about anything you want to know  
+How to reach me: zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
+Pronouns: he  
+Fun fact: love MHWI and CS2   
 ### Congratulations for Team Spirit！！！    
 
 <table>
