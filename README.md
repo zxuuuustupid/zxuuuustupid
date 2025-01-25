@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-### An undergraduate student in SMEE of UESTC
+### Undergraduate in SMEE of UESTC
 #### In Center for system reliability and safety of UESTC, China     
 
 I’m currently researching on fault detection of train tranmission systems with zero-fault sample  
