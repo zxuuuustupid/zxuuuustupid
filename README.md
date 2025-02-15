@@ -9,7 +9,7 @@ Ask me about anything you want to know
 How to reach me: zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
 Pronouns: he  
 Fun fact: love MHWI and CS2   
-### Congratulations for Team Spirit！！！    
+### 2025 New Beginning！   
 
 <table>
   <tr>
