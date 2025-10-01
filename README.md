@@ -3,8 +3,8 @@
 ## Undergraduate in SMEE of UESTC
 ### In Center for system reliability and safety of UESTC, China     
 
-&#9679; I’m currently researching on fault detection of train tranmission systems with zero-fault sample (also CZSL and LLM)      
-&#9679; Interested in Large Model (LM) !     
+&#9679; I’m currently researching on AI4Reliability including but not limited to transfer learning, few/zero shot learning      
+&#9679; Interested in llm such as rag, clip, rl!     
 &#9679; Ask me about anything you want to know  
 &#9679; How to reach me: zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
 &#9679; Pronouns: he  
