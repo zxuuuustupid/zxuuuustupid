@@ -1,14 +1,15 @@
 # Welcome! 👋
-
-## Undergraduate in SMEE of UESTC
-### In Center for system reliability and safety of UESTC, China     
-
-&#9679; I’m currently researching on AI4Reliability including but not limited to transfer learning, few/zero shot learning      
-&#9679; Interested in llm such as rag, clip, rl!     
-&#9679; Ask me about anything you want to know  
-&#9679; How to reach me: zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
-&#9679; Pronouns: he  
-&#9679; Fun fact: love MHWI and CS2   
+***“I am seeking a PhD opportunity in AI or large models. I would be delighted to connect with anyone who is interested.”***      
+### Background    
+* Undergraduate in SMEE of UESTC     
+* ***In Center for system reliability and safety of UESTC, China
+**More details are available on my GitHub (.github.io) page:**
+* I’m currently researching on AI4Reliability including but not limited to transfer learning, few/zero shot learning      
+* Interested in llm such as rag, clip, rl!     
+* Ask me about anything you want to know  
+* How to reach me: zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
+* Pronouns: he  
+* Fun fact: love MHWI and CS2   
 ### 2025 New Beginning！    
 
 ###
