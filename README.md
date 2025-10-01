@@ -3,7 +3,7 @@
 ### Background    
 * Undergraduate in SMEE of UESTC     
 * In Center for system reliability and safety of UESTC, China    
-**More details are available on my GitHub (.github.io) page:**
+**More details are available on my GitHub (.github.io) page**
 ---
 * I’m currently researching on AI4Reliability including but not limited to transfer learning, few/zero shot learning      
 * Interested in llm such as rag, clip, rl!     
