@@ -80,7 +80,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=zxuuuustupid&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
-![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/snake-dark.svg)
 
 
 
