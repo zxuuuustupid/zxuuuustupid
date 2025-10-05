@@ -1,5 +1,11 @@
 # 👋 Welcome!
 
+[![E-mail](https://img.shields.io/badge/Email-zhixuduan123@gmail.com-blue?logo=gmail)](mailto:zhixuduan123@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-zhixuduan@std.uetc.edu.cn-blue?logo=gmail)](mailto:zhixuduan@std.uetc.edu.cn)
+![GitHub followers](https://img.shields.io/github/followers/zxuuuustupid?style=social)
+
+
+
 > ***“I am seeking a PhD opportunity in AI or Large Models. I would be delighted to connect with anyone who is interested.”***
 
 ---
