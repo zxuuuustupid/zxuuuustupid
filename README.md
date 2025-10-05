@@ -1,7 +1,12 @@
-# 👋 Welcome!
+<h2 align="center">👋 Hey there, I'm <a href="https://github.com/zxuuuustupid">Zhixu Duan</a>!</h2>
+<p align="center">
+  <b>AI Researcher · Developer · Explorer</b><br>
+  Passionate about deep learning, fault diagnosis, and building intelligent systems.
+ 
+</p>
 
 [![E-mail](https://img.shields.io/badge/Email-zhixuduan123@gmail.com-blue?logo=gmail)](mailto:zhixuduan123@gmail.com)
-[![E-mail](https://img.shields.io/badge/Email-zhixuduan@std.uetc.edu.cn-blue?logo=gmail)](mailto:zhixuduan@std.uetc.edu.cn)
+[![E-mail](https://img.shields.io/badge/Email-zhixuduan@std.uetc.edu.cn-blue?logo=gmail)](mailto:zhixuduan@std.uestc.edu.cn)
 ![GitHub followers](https://img.shields.io/github/followers/zxuuuustupid?style=social)
 
 
@@ -53,21 +58,27 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
 </div>
 
----
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zxuuuustupid&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph" />
 </div>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxuuuustupid&show_icons=true&theme=city_lights&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&layout=compact&theme=city_lights" height="150" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxuuuustupid&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&hide_border=false" height="150" alt="Stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxuuuustupid&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="Languages graph" />
-</div>
+![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/github-contribution-grid-snake.svg)
 
----
+<p align="center">
+  <i>⭐️ If you like my work, consider starring a repo or following me!</i>
+</p>
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=zxuuuustupid&style=flat" alt="Profile views counter" />
 </p>
+
+
+
