@@ -76,11 +76,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&layout=compact&theme=city_lights" height="150" />
 </p>
 
-![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zxuuuustupid&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
+
+![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <p align="center">
   <i>⭐️ If you like my work, consider starring a repo or following me!</i>
