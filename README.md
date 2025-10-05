@@ -5,9 +5,16 @@
  
 </p>
 
-[![E-mail](https://img.shields.io/badge/Email-zhixuduan123@gmail.com-blue?logo=gmail)](mailto:zhixuduan123@gmail.com)
-[![E-mail](https://img.shields.io/badge/Email-zhixuduan@std.uetc.edu.cn-blue?logo=gmail)](mailto:zhixuduan@std.uestc.edu.cn)
-![GitHub followers](https://img.shields.io/github/followers/zxuuuustupid?style=social)
+<p align="center">
+  <a href="mailto:zhixuduan123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zhixuduan123@gmail.com-blue?logo=gmail" />
+  </a>
+  <a href="mailto:zhixuduan@std.uestc.edu.cn">
+    <img src="https://img.shields.io/badge/Email-zhixuduan@std.uestc.edu.cn-blue?logo=gmail" />
+  </a>
+  <img src="https://img.shields.io/github/followers/zxuuuustupid?style=social" />
+</p>
+
 
 
 
@@ -70,6 +77,10 @@
 </p>
 
 ![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zxuuuustupid&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
 
 <p align="center">
   <i>⭐️ If you like my work, consider starring a repo or following me!</i>
