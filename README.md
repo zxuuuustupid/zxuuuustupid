@@ -18,13 +18,13 @@
 
 
 
-> ***“I am seeking a PhD opportunity in AI or Large Models. I would be delighted to connect with anyone who is interested.”***
+> ***“I am seeking a PhD opportunity in AI / Large Models. I would be delighted to connect with anyone who is interested.”***
 
 ---
 
 ### 🎓 Background
 - **Undergraduate** in SMEE, **UESTC**  
-- **Member** of the *Center for System Reliability and Safety*, UESTC, China  
+- **Research Assistant** of the *Center for System Reliability and Safety*, UESTC, China  
 - 📄 *More details are available on my [GitHub Page]*  
 
 ---
@@ -62,6 +62,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Solidworks-000000?style=for-the-badge&logo=solidworks&logoColor=white" alt="Solidworks"/></a>
 </p>
 </div>
+
+---
 
 ### 📈 GitHub Stats
 
