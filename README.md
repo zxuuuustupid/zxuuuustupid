@@ -24,7 +24,8 @@
 
 ### 🎓 Background
 - **Undergraduate** in SMEE, **UESTC**  
-- **Research Assistant** of the *Center for System Reliability and Safety*, UESTC, China  
+- **Research Assistant** of the *Center for System Reliability and Safety*, UESTC, China
+- **Research Assistant** of the *EPICLab*, SAI of **SJTU**.       
 - 📄 *More details are available on my [GitHub Page]*  
 
 ---
