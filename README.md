@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey there, I'm <a href="https://github.com/zxuuuustupid">Zhixu Duan</a>!</h2>
 <p align="center">
-  <b>AI Researcher · Developer · Explorer</b><br>
+  <b>AI Researcher · Developer · Explorer · Core Founder & Vice President of UESTC Interdisciplinary Association</b><br>
   Passionate about deep learning, fault diagnosis, and building intelligent systems.
  
 </p>
@@ -12,13 +12,16 @@
   <a href="mailto:zhixuduan@std.uestc.edu.cn">
     <img src="https://img.shields.io/badge/Email-zhixuduan@std.uestc.edu.cn-blue?logo=gmail" />
   </a>
+  <a href="https://uestc-ia.github.io">
+    <img src="https://img.shields.io/badge/IA_Website-uestc--ia.github.io-FF4500?logo=google-chrome" />
+  </a>
+  <a href="https://github.com/UESTC-IA">
+    <img src="https://img.shields.io/badge/IA_Repo-UESTC--IA-181717?logo=github" />
+  </a>
   <img src="https://img.shields.io/github/followers/zxuuuustupid?style=social" />
 </p>
 
-
-
-
-> ***“I am seeking a PhD opportunity in AI / Large Models. I would be delighted to connect with anyone who is interested.”***
+> ***"I am seeking a PhD opportunity in AI / Large Models. I would be delighted to connect with anyone who is interested."***
 
 ---
 
@@ -27,6 +30,10 @@
 - **Research Assistant** of the *Center for System Reliability and Safety*, UESTC, China
 - **Research Assistant** of the *EPICLab*, **SAI of SJTU**.       
 - 📄 *More details are available on my [GitHub Page]*  
+- **Core Founding Member & Vice President** of the **[Interdisciplinary Association (IA)](https://uestc-ia.github.io)** at UESTC
+  - 🌐 Building UESTC's first "AI+X" interdisciplinary innovation ecosystem
+  - 🚀 Leading university-wide events like "AI × Future" Innovation Challenge
+  - 💡 Bridging AI talents, domain scientists, and engineering teams across disciplines
 
 ---
 
@@ -34,7 +41,7 @@
 - Currently researching **AI4Reliability**, including (but not limited to):  
   *Transfer Learning · Few/Zero-shot Learning · Intelligent Fault Diagnosis*  
 - Enthusiastic about **Large Language Models (LLMs)** such as *RAG · CLIP · RL*  
-- 💬 *Ask me about anything you’d like to know!*  
+- 💬 *Ask me about anything you'd like to know!*  
 
 ---
 
@@ -43,6 +50,19 @@
 - 🧍‍♂️ **Pronouns:** he  
 - 🎮 **Fun fact:** Love *Monster Hunter: World Iceborne* and *CS2*  
 - ✨ **2025 — A New Beginning!**
+
+---
+
+### 🌐 Interdisciplinary Association Leadership
+<div align="center">
+  
+[![IA Website](https://img.shields.io/badge/🌐_Official_Website-uestc--ia.github.io-FF4500?style=for-the-badge&logo=google-chrome)](https://uestc-ia.github.io)
+[![IA GitHub](https://img.shields.io/badge/💻_GitHub_Organization-UESTC--IA-181717?style=for-the-badge&logo=github)](https://github.com/UESTC-IA)
+
+</div>
+
+> **"Breaking Disciplinary Barriers, Integrating Frontier Knowledge"**  
+> As one of the founding members and current Vice President, I help lead IA's mission to connect artificial intelligence with diverse fields including Science, Health, Engineering, Finance, and more. Our association serves as UESTC's premier platform for interdisciplinary collaboration and innovation.
 
 ---
 
@@ -83,16 +103,10 @@
 
 ![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/snake-dark.svg)
 
-
-
 <p align="center">
   <i>⭐️ If you like my work, consider starring a repo or following me!</i>
 </p>
 
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=zxuuuustupid&style=flat" alt="Profile views counter" />
 </p>
-
-
-
