@@ -48,7 +48,7 @@
 ### 📫 Contact
 - 📧 **Email:** zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
 - 🧍‍♂️ **Pronouns:** he  
-- 🎮 **Fun fact:** Love *Monster Hunter: World Iceborne* and *CS2*  
+- 🎮 **Fun fact:** Love *Monster Hunter: World Iceborne* , *LOL* and *CS2*  
 - ✨ **2025 — A New Beginning!**
 
 ---
