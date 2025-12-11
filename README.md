@@ -29,20 +29,7 @@
 - **Undergraduate** in SMEE, **UESTC**  
 - **Research Assistant** of the *Center for System Reliability and Safety*, UESTC, China
 - **Research Assistant** of the *EPICLab*, **SAI of SJTU**.       
-- 📄 *More details are available on my [GitHub Page]*  
-- **Core Founding Member & Vice President** of the **[Interdisciplinary Association (IA)](https://uestc-ia.github.io)** at UESTC
-  - 🌐 Building UESTC's first "AI+X" interdisciplinary innovation ecosystem
-  - 🚀 Leading university-wide events like "AI × Future" Innovation Challenge
-  - 💡 Bridging AI talents, domain scientists, and engineering teams across disciplines
-
----
-
-### 🔬 Research & Interests
-- Currently researching **AI4Reliability**, including (but not limited to):  
-  *Transfer Learning · Few/Zero-shot Learning · Intelligent Fault Diagnosis*  
-- Enthusiastic about **Large Language Models (LLMs)** such as *RAG · CLIP · RL*  
-- 💬 *Ask me about anything you'd like to know!*  
-
+- **Core Founding Member & Vice President** of the **[Interdisciplinary Association (IA)](https://uestc-ia.github.io)** at UESTCs
 ---
 
 ### 📫 Contact
@@ -50,7 +37,7 @@
 - 🧍‍♂️ **Pronouns:** he  
 - 🎮 **Fun fact:** Love *Monster Hunter: World Iceborne* , *LOL* and *CS2*  
 - ✨ **2025 — A New Beginning!**
-
+- 💬 *Ask me about anything you'd like to know!*  
 ---
 
 ### 🌐 Interdisciplinary Association Leadership
