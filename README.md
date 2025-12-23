@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey there, I'm <a href="https://github.com/zxuuuustupid">Zhuxing</a>!</h2>
+<h2 align="center">👋 Hey there, I'm <a href="https://github.com/zxuuuustupid">Jusin</a>!</h2>
 <p align="center">
   <b>AI Researcher · Developer · Explorer · Core Founder & Vice President of UESTC Interdisciplinary Association</b><br>
   Passionate about deep learning, fault diagnosis, and building intelligent systems.
