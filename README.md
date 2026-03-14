@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:zhixuduan123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-zhixuduan123@gmail.com-blue?logo=gmail" />
-  </a>
   <a href="mailto:zhixuduan@std.uestc.edu.cn">
     <img src="https://img.shields.io/badge/Email-zhixuduan@std.uestc.edu.cn-blue?logo=gmail" />
   </a>
@@ -18,27 +15,19 @@
   <a href="https://github.com/UESTC-IA">
     <img src="https://img.shields.io/badge/IA_Repo-UESTC--IA-181717?logo=github" />
   </a>
-  <img src="https://img.shields.io/github/followers/zxuuuustupid?style=social" />
 </p>
-
-> ***"I am seeking a PhD opportunity in AI / Large Models. I would be delighted to connect with anyone who is interested."***
-
----
 
 ### 🎓 Background
 - **Undergraduate** in SMEE, **UESTC**  
 - **Research Assistant** of the *Center for System Reliability and Safety*, UESTC, China
 - **Research Assistant** of the *EPICLab*, **SAI of SJTU**.       
 - **Core Founding Member & Vice President** of the **[Interdisciplinary Association (IA)](https://uestc-ia.github.io)** at UESTCs
----
 
 ### 📫 Contact
 - 📧 **Email:** zhixuduan@std.uestc.edu.cn / zhixuduan123@gmail.com  
-- 🧍‍♂️ **Pronouns:** he  
-- 🎮 **Fun fact:** Love *Monster Hunter: World Iceborne* , *LOL* and *CS2*  
-- ✨ **2025 — A New Beginning!**
+- 🧍‍♂️ **Pronouns:** he
+- 📶 **Tel/WeChat:** 15234230092     
 - 💬 *Ask me about anything you'd like to know!*  
----
 
 ### 🌐 Interdisciplinary Association Leadership
 <div align="center">
@@ -48,10 +37,9 @@
 
 </div>
 
-> **"Breaking Disciplinary Barriers, Integrating Frontier Knowledge"**  
-> As one of the founding members and current Vice President, I help lead IA's mission to connect artificial intelligence with diverse fields including Science, Health, Engineering, Finance, and more. Our association serves as UESTC's premier platform for interdisciplinary collaboration and innovation.
+**"Breaking Disciplinary Barriers, Integrating Frontier Knowledge"**    
+As one of the founding members and current Vice President, I help lead IA's mission to connect artificial intelligence with diverse fields including Science, Health, Engineering, Finance, and more. Our association serves as UESTC's premier platform for interdisciplinary collaboration and innovation.
 
----
 
 <h3 align="left">🛠 Tech Stack</h3>
 
@@ -71,7 +59,6 @@
 </p>
 </div>
 
----
 
 ### 📈 GitHub Stats
 
@@ -84,11 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&layout=compact&theme=city_lights" height="150" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zxuuuustupid&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
-![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/snake-dark.svg)
+![Snake animation](https://github.com/zxuuuustupid/zxuuuustupid/blob/output/snake-dark.svg) -->
 
 <p align="center">
   <i>⭐️ If you like my work, consider starring a repo or following me!</i>
