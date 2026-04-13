@@ -62,14 +62,14 @@ As one of the founding members and current Vice President, I help lead IA's miss
 
 ### 📈 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=zxuuuustupid&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph" />
 </div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zxuuuustupid&show_icons=true&theme=city_lights&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxuuuustupid&layout=compact&theme=city_lights" height="150" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zxuuuustupid&theme=onedark&no-frame=true&row=1&column=7" />
