@@ -60,7 +60,6 @@ As one of the founding members and current Vice President, I help lead IA's miss
 </div>
 
 
-### 📈 GitHub Stats
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=zxuuuustupid&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph" />
